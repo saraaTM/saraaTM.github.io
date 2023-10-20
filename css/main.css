@@ -33,7 +33,7 @@ section :hover
 {
     background-color:var(--uncsand);
 }
-.p :hover
+ul :hover
 {
     background-color:var(--uncgray);
 }
