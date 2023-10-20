@@ -7,23 +7,27 @@
     background-color:var(--uncseafoam)
 }
 
-.title
+h1
 {
   color: var(--uncsand);
   font-size: 50pt;
   text-decoration: underline;
   text-align: center;
+  font-weight: bold;
 }
 
 ul
 {
     text-align: center;
+    font-style: italic;
+    font-weight: bold;
 }
 li
 {
     display: inline;
     margin-left: 3vw;
     margin-right: 3vw;
+    text-transform: lowercase;
 }
 
 img
