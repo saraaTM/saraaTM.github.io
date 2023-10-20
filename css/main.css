@@ -7,7 +7,7 @@
     background-color:var(--uncseafoam)
 }
 
-h1
+.title
 {
   color: var(--uncsand);
   font-size: 50pt;
@@ -19,7 +19,6 @@ h1
 ul
 {
     text-align: center;
-    font-style: italic;
     font-weight: bold;
 }
 li
@@ -27,6 +26,7 @@ li
     display: inline;
     margin-left: 3vw;
     margin-right: 3vw;
+    font-style: italic;
     text-transform: lowercase;
 }
 
