@@ -18,8 +18,12 @@ h1
 img
 {
     margin: auto;
+    display: block;
 }
-
+ul
+{
+    text-align: center;
+}
 li
 {
     font-weight: bold;
