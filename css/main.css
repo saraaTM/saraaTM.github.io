@@ -3,7 +3,7 @@
     --uncblue: RGB(1,45,91);
     --uncsand: RGB(255,239,204);
     --uncseafoam: RGB(199,230,228);
-    --uncgray: RGB: (235,235,235);
+    --uncgray: RGB(235,235,235);
     color: var(--uncblue);
     background-color:var(--uncseafoam)
 }
@@ -46,7 +46,7 @@ h2
     text-align: center;
 }
 
-ul :hover
+p :hover
 {
     background-color:var(--uncgrey)
 }
