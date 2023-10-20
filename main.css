@@ -1,0 +1,45 @@
+:root
+{
+    --uncblue: RGB(1,45,91);
+    --uncsand: RGB(255,239,204);
+    --uncseafoam: RGB(199,230,228);
+    color: var(--uncblue);
+    background-color:var(--uncseafoam)
+}
+
+.title
+{
+  color: var(--uncsand);
+  font-size: 48pt;
+  text-decoration: underline;
+  text-align: center;
+}
+
+ul
+{
+    text-align: center;
+}
+li
+{
+    display: inline;
+    margin-left: 3vw;
+    margin-right: 3vw;
+}
+
+img
+{
+    margin: auto;
+    display: block;
+}
+
+section :hover
+{
+    background-color:var(--uncsand);
+}
+
+.footnote
+{
+    font-style: italic;
+    text-align: center;
+    margin-top: 100px;
+}
