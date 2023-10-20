@@ -24,6 +24,7 @@ img
 
 li
 {
+    text-align: left;
     font-weight: bold;
 }
 
@@ -45,3 +46,7 @@ h2
     text-align: center;
 }
 
+p :hover
+{
+    background-color:var(--uncgrey)
+}
