@@ -33,9 +33,10 @@ section :hover
 {
     background-color:var(--uncsand);
 }
-ul :hover
+p:hover
 {
     background-color:var(--uncgray);
+    display: block;
 }
 .footnote
 {
