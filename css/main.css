@@ -43,12 +43,3 @@ h2
 {
     text-align: center;
 }
-h2 + p
-{
-    text-align: center;
-}
-h2 + p + a
-{
-    text-align: center;
-    display: block;
-}
