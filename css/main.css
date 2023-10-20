@@ -3,6 +3,7 @@
     --uncblue: RGB(1,45,91);
     --uncsand: RGB(255,239,204);
     --uncseafoam: RGB(199,230,228);
+    --uncgray: RGB: (235,235,235);
     color: var(--uncblue);
     background-color:var(--uncseafoam)
 }
@@ -20,9 +21,9 @@ img
     margin: auto;
     display: block;
 }
-ul li
+
+li
 {
-    text-align: center;
     font-weight: bold;
 }
 
@@ -43,4 +44,7 @@ h2
 {
     text-align: center;
 }
-
+section :hover
+{
+    background-color:var(--uncgray);
+}
