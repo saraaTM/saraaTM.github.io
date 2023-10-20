@@ -9,17 +9,10 @@
 
 h1
 {
-  color: var(--uncsand);
-  font-size: 50pt;
-  text-decoration: underline;
-  text-align: center;
-  font-weight: bold;
-}
-
-ul li
-{
-    
-    font-weight: bold;
+    color: var(--uncsand);
+    font-size: 48pt;
+    text-decoration: underline;
+    text-align: center;
 }
 
 img
@@ -27,6 +20,12 @@ img
     margin: auto;
     display: block;
 }
+
+li
+{
+    font-weight: bold;
+}
+
 
 section :hover
 {
@@ -38,4 +37,9 @@ section :hover
     font-style: italic;
     text-align: center;
     margin-top: 100px;
+}
+
+h2
+{
+    text-align: center;
 }
