@@ -20,12 +20,9 @@ img
     margin: auto;
     display: block;
 }
-ul
+ul li
 {
     text-align: center;
-}
-li
-{
     font-weight: bold;
 }
 
@@ -46,7 +43,4 @@ h2
 {
     text-align: center;
 }
-body
-{
-    text-align: center;
-}
+
