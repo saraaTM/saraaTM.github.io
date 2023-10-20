@@ -35,7 +35,7 @@ section :hover
 }
 p :hover
 {
-    background-color:var(--uncgrey);
+    background-color:var(--uncgray);
 }
 .footnote
 {
