@@ -44,7 +44,4 @@ h2
 {
     text-align: center;
 }
-section :hover
-{
-    background-color:var(--uncgray);
-}
+
