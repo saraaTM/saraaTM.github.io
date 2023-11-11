@@ -10,6 +10,9 @@ body
 {
     background-color: var(--uncgray);
 }
+section :hover
+{
+    background-color:var(--uncseafoam);
 *
 {
     color: var(--uncblue);
