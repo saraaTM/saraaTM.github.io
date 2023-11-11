@@ -3,8 +3,8 @@
     --uncblue: RGB(1,45,91);
     --uncsand: RGB(255,239,204);
     --uncseafoam: RGB(199,230,228);
-    --uncgray: RGB(235,235,235);
-    --uncbutter: RGB(255, 214, 125);
+    --uncgray: RGB(102,102,102);
+    --uncbutter: RGB(255,214,125);
 }
 body
 {
